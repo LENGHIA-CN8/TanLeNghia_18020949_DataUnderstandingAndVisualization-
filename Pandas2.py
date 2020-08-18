@@ -32,10 +32,10 @@ print(df['category'].value_counts())
 print(df[df['category']=='Dịch viêm phổi virus corona']['category'])
 
 #countplot
-plt.figure(1,figsize=(50,50))
+plt.figure(1)
 plt.xticks(rotation=45)
 plt.ylabel('NumsOfArticles')
 count=sns.countplot('category',data=df)
-count.set_width(10)
+# count.set_width(10)
 
 plt.show()
