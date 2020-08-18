@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9751e554-c740-4820-8ae1-caff50c8d5b0" name="Default Changelist" comment="" />
+    <list default="true" id="9751e554-c740-4820-8ae1-caff50c8d5b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Express.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TanLeNghia_18020949_Nhom4_Week4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/TanLeNghia_18020949_Nhom4_Week4.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gALSWw9WIiLpLGEbDNtgAkJ5Gk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +31,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Pandas">
+  <component name="RunManager" selected="Python.Pandas2">
     <configuration name="Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataVisualiztion" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -38,6 +48,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pandas2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualiztion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pandas2" />
         <item itemvalue="Python.Pandas" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.Visual" />
@@ -122,25 +154,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1597671653965">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom" timestamp="1597741569193">
+      <screen x="0" y="22" width="1280" height="717" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597671653965" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597688789515" />
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom/0.22.1280.717@0.22.1280.717" timestamp="1597741569193" />
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom/0.22.1280.718@0.22.1280.718" timestamp="1597741552552" />
     <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.22.1280.726@0.22.1280.726" timestamp="1597558486034" />
-    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1597671653963">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center" timestamp="1597741569191">
+      <screen x="0" y="22" width="1280" height="717" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597671653963" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597688789514" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center/0.22.1280.717@0.22.1280.717" timestamp="1597741569191" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center/0.22.1280.718@0.22.1280.718" timestamp="1597741552551" />
     <state width="1259" height="212" key="GridCell.Tab.0.center/0.22.1280.726@0.22.1280.726" timestamp="1597558486032" />
-    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1597671653961">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left" timestamp="1597741569190">
+      <screen x="0" y="22" width="1280" height="717" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597671653961" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597688789513" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left/0.22.1280.717@0.22.1280.717" timestamp="1597741569190" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left/0.22.1280.718@0.22.1280.718" timestamp="1597741552550" />
     <state width="1259" height="212" key="GridCell.Tab.0.left/0.22.1280.726@0.22.1280.726" timestamp="1597558486030" />
-    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1597671653964">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right" timestamp="1597741569192">
+      <screen x="0" y="22" width="1280" height="717" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597671653964" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597688789515" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right/0.22.1280.717@0.22.1280.717" timestamp="1597741569192" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right/0.22.1280.718@0.22.1280.718" timestamp="1597741552551" />
     <state width="1259" height="212" key="GridCell.Tab.0.right/0.22.1280.726@0.22.1280.726" timestamp="1597558486033" />
   </component>
 </project>
