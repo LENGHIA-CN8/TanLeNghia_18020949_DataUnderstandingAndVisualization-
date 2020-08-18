@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9751e554-c740-4820-8ae1-caff50c8d5b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Express.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TanLeNghia_18020949_Nhom4_Week4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/TanLeNghia_18020949_Nhom4_Week4.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,36 +148,56 @@
       <option name="presentableId" value="Default" />
       <updated>1597552450768</updated>
     </task>
+    <task id="LOCAL-00001" summary="upload docx">
+      <created>1597742813516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597742813517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload docx" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload docx" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="177" key="GridCell.Tab.0.bottom" timestamp="1597741569193">
+    <state x="273" y="22" key="CommitChangelistDialog2" timestamp="1597742812615">
       <screen x="0" y="22" width="1280" height="717" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597688789515" />
-    <state width="1259" height="177" key="GridCell.Tab.0.bottom/0.22.1280.717@0.22.1280.717" timestamp="1597741569193" />
+    <state x="273" y="22" key="CommitChangelistDialog2/0.22.1280.717@0.22.1280.717" timestamp="1597742812615" />
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom" timestamp="1597758329210">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597758329210" />
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom/0.22.1280.717@0.22.1280.717" timestamp="1597748167150" />
     <state width="1259" height="177" key="GridCell.Tab.0.bottom/0.22.1280.718@0.22.1280.718" timestamp="1597741552552" />
     <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.22.1280.726@0.22.1280.726" timestamp="1597558486034" />
-    <state width="1259" height="177" key="GridCell.Tab.0.center" timestamp="1597741569191">
-      <screen x="0" y="22" width="1280" height="717" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center" timestamp="1597758329208">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597688789514" />
-    <state width="1259" height="177" key="GridCell.Tab.0.center/0.22.1280.717@0.22.1280.717" timestamp="1597741569191" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597758329208" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center/0.22.1280.717@0.22.1280.717" timestamp="1597748167148" />
     <state width="1259" height="177" key="GridCell.Tab.0.center/0.22.1280.718@0.22.1280.718" timestamp="1597741552551" />
     <state width="1259" height="212" key="GridCell.Tab.0.center/0.22.1280.726@0.22.1280.726" timestamp="1597558486032" />
-    <state width="1259" height="177" key="GridCell.Tab.0.left" timestamp="1597741569190">
-      <screen x="0" y="22" width="1280" height="717" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left" timestamp="1597758329207">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597688789513" />
-    <state width="1259" height="177" key="GridCell.Tab.0.left/0.22.1280.717@0.22.1280.717" timestamp="1597741569190" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597758329207" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left/0.22.1280.717@0.22.1280.717" timestamp="1597748167148" />
     <state width="1259" height="177" key="GridCell.Tab.0.left/0.22.1280.718@0.22.1280.718" timestamp="1597741552550" />
     <state width="1259" height="212" key="GridCell.Tab.0.left/0.22.1280.726@0.22.1280.726" timestamp="1597558486030" />
-    <state width="1259" height="177" key="GridCell.Tab.0.right" timestamp="1597741569192">
-      <screen x="0" y="22" width="1280" height="717" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right" timestamp="1597758329209">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597688789515" />
-    <state width="1259" height="177" key="GridCell.Tab.0.right/0.22.1280.717@0.22.1280.717" timestamp="1597741569192" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597758329209" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right/0.22.1280.717@0.22.1280.717" timestamp="1597748167149" />
     <state width="1259" height="177" key="GridCell.Tab.0.right/0.22.1280.718@0.22.1280.718" timestamp="1597741552551" />
     <state width="1259" height="212" key="GridCell.Tab.0.right/0.22.1280.726@0.22.1280.726" timestamp="1597558486033" />
+    <state x="240" y="120" key="Vcs.Push.Dialog.v2" timestamp="1597742828472">
+      <screen x="0" y="22" width="1280" height="717" />
+    </state>
+    <state x="240" y="120" key="Vcs.Push.Dialog.v2/0.22.1280.717@0.22.1280.717" timestamp="1597742828472" />
   </component>
 </project>
