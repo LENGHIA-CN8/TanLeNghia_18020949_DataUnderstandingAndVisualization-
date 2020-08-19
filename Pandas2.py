@@ -30,6 +30,15 @@ df.loc[df.category == '\nThượng đỉnh Mỹ - Triều\n','category']='Thế 
 df.loc[df.category == 'Kinh tế cho tương lai','category']='Kinh doanh'
 print(df['category'].value_counts())
 print(df[df['category']=='Dịch viêm phổi virus corona']['category'])
+print(df.loc[df.category=='Thời sự'])
+#handle tags
+li_tags=list()
+for tag in df["tags"]:
+    if '' in tag:
+        tag.remove('')
+    li_tags+=tag
+Tag=pd.Series(li_tags).value_counts().iloc[0:10]
+
 
 #countplot
 plt.figure(1)
@@ -37,5 +46,12 @@ plt.xticks(rotation=45)
 plt.ylabel('NumsOfArticles')
 count=sns.countplot('category',data=df)
 # count.set_width(10)
+#bar plot
+plt.figure(2)
+Tag.plot.bar(x='tags',y='tags_num',rot=45)
+#count=sns.countplot(data=Tag.iloc[0:10])
+
+
+#print(li_tags)
 
 plt.show()
